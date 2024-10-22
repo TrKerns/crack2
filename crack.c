@@ -65,6 +65,6 @@ int main(int argc, char *argv[])
 
     // Display the number of hashes that were cracked.
     
-    // Free up any malloc'd memory?
+    // Free up any malloc'd memory?.
 }
 
